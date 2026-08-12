@@ -28,8 +28,11 @@ to produce a cleaned dataset with key safety insights.
 ## Project structure
 
 ├── roadsafety_etl_pipeline.py # ETL pipeline
+
 ├── analysis.py # Additional analysis
+
 ├── exploration.ipynb # Data exploration notebook
+
 └── README.md
 
 ## Data source
