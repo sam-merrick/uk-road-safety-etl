@@ -43,6 +43,7 @@ https://www.gov.uk/government/statistical-data-sets/road-safety-open-data
 ## How to run
 
 pip install pandas pyarrow
+
 python roadsafety_etl_pipeline.py
 
 ## Notes
