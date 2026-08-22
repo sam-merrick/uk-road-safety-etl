@@ -33,8 +33,6 @@ to produce a cleaned dataset with key safety insights.
 
 ├── exploration.ipynb # Data exploration notebook
 
-└── README.md
-
 ## Data source
 
 Department for Transport — Road Safety Data
